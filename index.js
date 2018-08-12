@@ -31,5 +31,5 @@ bot.on('guildMemberAdd', member => {
 
 });
 
-    bot.login('MzE3NzU2NjcxNzg1MDQxOTI0.Dk_5_g.Ambw6Ha6j2c3KSHRfutPOLUxl4s');
+    bot.login('FoolMeOnce-ShameOnYou');
 
